@@ -1,0 +1,29 @@
+
+
+
+
+.mountain {
+    border-radius: 1px;
+    width: 400px;
+height: 400px;
+}
+
+
+.btn-oreng  {
+    border:none ;
+    background:orange ;
+    color: white;
+    border-radius: 40px;
+    padding: 10px 20px;
+
+}
+
+.btn-red {
+    border: none;
+    color: white;
+    background: red;
+    padding: 20px 40px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
